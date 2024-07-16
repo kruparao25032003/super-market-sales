@@ -13,6 +13,7 @@ README.md: This README file, providing an overview of the project and instructio
 <p>To run the analysis, you need to have Python installed along with the following libraries:<br>
 
 pandas<br>
+numpy<br>
 matplotlib<br>
 seaborn
 </p>
